@@ -1,0 +1,501 @@
+Category,Purchase_Date,Gender,Location,Purchase_Platform,Discount,Quantity_Sold,Unit_Price,Total_Sales,Profit
+Appliances,07-06-2022,Male,West,In-store,0,17,24.21593406,411.6708789,164.4452645
+Books,08-02-2022,Female,West,Online: Own-website,1,9,72.63092064,653.6782857,148.4076653
+Furniture,23-03-2022,Female,West,Online: Own-website,1,41,81.39352154,3337.134383,333.8932338
+Books,22-12-2022,Male,North,Online: Own-website,0,,38.50855094,,
+Books,15-09-2022,Male,East,Online: Other apps,1,,87.14613313,,
+Clothing,25-07-2022,Female,West,Online: Other apps,1,60,91.55289293,5493.173576,1156.136285
+Furniture,18-03-2022,Female,East,In-store,0,48,34.92140386,1676.227385,641.6440782
+Furniture,12-01-2022,Female,East,Online: Own-website,0,29,98.51693254,2856.991044,357.3405794
+Furniture,22-10-2022,Male,North,Online: Own-website,0,97,22.66403752,2198.41164,957.9257685
+Books,12-08-2022,Female,West,In-store,1,10,28.18141016,281.8141016,28.61201339
+Appliances,13-01-2022,Female,South,Online: Own-website,0,58,26.58023553,1541.653661,306.3721347
+Furniture,15-02-2022,Female,North,Online: Own-website,1,60,90.4590739,5427.544434,2151.270318
+Sports,04-06-2022,Male,South,Online: Other apps,1,21,68.88632971,1446.612924,327.6694868
+Books,23-04-2022,Female,East,In-store,1,28,23.68938549,663.3027937,93.36448164
+Clothing,21-08-2022,Female,East,In-store,1,75,49.62910765,3722.183074,908.5609455
+Appliances,17-01-2022,Male,North,In-store,1,34,65.37682226,2222.811957,462.6945677
+Sports,26-12-2022,Female,North,In-store,1,8,17.51176765,140.0941412,61.2330142
+Sports,11-08-2022,Female,South,Online: Other apps,1,59,89.41747316,5275.630916,1188.806276
+Clothing,20-12-2022,Male,West,Online: Other apps,0,86,82.32431819,7079.891364,2942.211614
+Appliances,07-07-2022,Female,South,Online: Own-website,0,72,55.46860962,3993.739893,1824.136135
+Books,10-12-2022,Male,North,Online: Own-website,1,49,97.04139537,4755.028373,1300.628493
+Electronics,12-06-2022,Male,South,Online: Own-website,1,79,47.59848813,3760.280563,1744.684663
+Appliances,22-11-2022,Female,North,Online: Own-website,0,17,98.56992871,1675.688788,420.4759318
+Clothing,15-03-2022,Female,South,Online: Other apps,1,60,70.11279989,4206.767994,2042.93849
+Sports,21-08-2022,Female,North,In-store,0,87,67.12041459,5839.47607,792.5092237
+Books,12-08-2022,Female,North,Online: Other apps,0,88,24.93594058,2194.362771,822.4640776
+Appliances,15-11-2022,Male,North,Online: Own-website,0,45,89.37349825,4021.807421,1196.590731
+Electronics,01-03-2022,Female,West,Online: Other apps,1,83,48.47407191,4023.347969,1026.19321
+Electronics,01-12-2022,Male,South,In-store,1,69,24.60100652,1697.46945,599.3505789
+Furniture,10-08-2022,Female,South,In-store,0,32,11.1346768,356.3096575,135.9473975
+Furniture,06-02-2022,Female,South,Online: Other apps,0,44,60.37801153,2656.632507,270.2998923
+Clothing,05-10-2022,Female,North,Online: Other apps,0,65,57.46596599,3735.287789,622.9759125
+Appliances,15-07-2022,Male,South,Online: Other apps,0,87,74.74182601,6502.538863,2504.897749
+Appliances,18-12-2022,Female,South,Online: Own-website,0,,,,
+Sports,30-08-2022,Female,North,Online: Other apps,1,77,17.14659262,1320.287632,642.2129922
+Sports,20-11-2022,Female,East,Online: Other apps,0,72,75.83468413,5460.097257,2208.145866
+Sports,07-08-2022,Female,North,Online: Other apps,1,87,26.86707497,2337.435522,1122.691512
+Furniture,11-07-2022,Male,South,In-store,0,43,87.23593478,3751.145196,1429.24709
+Appliances,17-01-2022,Female,North,In-store,1,,,,
+Appliances,12-01-2022,Male,East,Online: Own-website,1,51,58.67143795,2992.243335,425.3353281
+Electronics,12-07-2022,Male,North,Online: Own-website,1,24,73.92185188,1774.124445,732.2335756
+Furniture,22-01-2022,Male,South,In-store,1,99,38.29151019,3790.859508,1355.837631
+Books,30-04-2022,Male,East,In-store,1,24,52.4051109,1257.722662,150.0141221
+Furniture,29-07-2022,Male,West,In-store,1,17,83.94732079,1427.104453,348.2422947
+Books,02-11-2022,Male,South,Online: Other apps,0,,,,
+Electronics,27-09-2022,Female,East,Online: Other apps,1,20,42.20184388,844.0368776,253.346496
+Clothing,11-07-2022,Male,East,In-store,0,21,54.47912025,1144.061525,312.4336547
+Appliances,24-06-2022,Male,West,Online: Other apps,1,58,84.54243272,4903.461098,1388.070993
+Electronics,12-10-2022,Male,North,Online: Other apps,1,31,40.16872426,1245.230452,228.5658968
+Appliances,23-07-2022,Female,North,Online: Own-website,0,11,25.63854338,282.0239772,69.79610282
+Sports,13-06-2022,Female,South,In-store,1,52,74.08126183,3852.225615,955.0642005
+Clothing,08-09-2022,Male,West,In-store,0,15,84.33803914,1265.070587,153.0001772
+Clothing,15-08-2022,Female,North,Online: Other apps,0,83,19.05737307,1581.761965,643.8199085
+Electronics,07-01-2022,Male,West,In-store,0,,,,
+Clothing,29-01-2022,Male,North,Online: Own-website,0,28,22.77747908,637.7694142,273.5214153
+Books,02-02-2022,Female,East,Online: Own-website,1,51,41.31472704,2107.051079,927.3957773
+Clothing,14-05-2022,Male,North,Online: Own-website,1,58,50.5315881,2930.83211,541.610804
+Appliances,20-03-2022,Female,West,In-store,0,,77.39437033,,
+Appliances,27-02-2022,Female,East,In-store,1,,68.60328264,,
+Appliances,26-01-2022,Male,East,In-store,1,94,65.88357107,6193.055681,2799.649442
+Appliances,14-08-2022,Male,East,In-store,0,96,41.71374519,4004.519539,746.0270599
+Books,12-10-2022,Female,West,In-store,1,8,85.73027978,685.8422382,254.5333928
+Furniture,04-01-2022,Male,South,Online: Own-website,0,64,52.41584507,3354.614084,1150.97094
+Sports,09-04-2022,Male,South,Online: Other apps,0,10,98.11944442,981.1944442,214.0187121
+Electronics,08-02-2022,Male,South,Online: Own-website,1,38,67.07279245,2548.766113,394.142113
+Appliances,28-09-2022,Female,West,In-store,1,96,21.36382674,2050.927367,739.679064
+Clothing,12-10-2022,Female,East,Online: Own-website,1,92,70.85598059,6518.750214,2577.767957
+Appliances,06-06-2022,Male,South,In-store,0,81,39.25936139,3180.008272,719.4798529
+Clothing,16-03-2022,Female,West,In-store,0,95,71.7694477,6818.097532,2440.422387
+Sports,15-10-2022,Female,South,Online: Own-website,1,8,,,
+Sports,10-05-2022,Female,North,In-store,1,25,25.73932935,643.4832336,247.922992
+Sports,24-06-2022,Female,South,Online: Other apps,1,73,87.0163533,6352.193791,1141.400992
+Clothing,25-03-2022,Female,South,In-store,1,66,30.44616013,2009.446569,916.4804499
+Appliances,22-01-2022,Male,East,Online: Other apps,0,79,85.33370127,6741.3624,1449.149139
+Sports,27-01-2022,Male,West,Online: Other apps,1,50,35.13484796,1756.742398,434.116335
+Books,14-07-2022,Male,East,In-store,0,67,67.85937191,4546.577918,560.3056264
+Clothing,03-12-2022,Female,East,Online: Own-website,0,49,72.47355162,3551.204029,513.52145
+Clothing,24-08-2022,Female,East,Online: Other apps,1,36,56.13892778,2021.0014,619.1231911
+Appliances,02-04-2022,Male,East,Online: Own-website,1,68,37.4779609,2548.501341,527.6342524
+Clothing,21-01-2022,Female,East,Online: Other apps,1,78,29.13799387,2272.763522,986.8159444
+Clothing,30-10-2022,Male,South,In-store,0,41,12.98704191,532.4687183,56.37637976
+Sports,23-12-2022,Male,East,In-store,1,89,37.35517611,3324.610674,836.5971157
+Appliances,25-03-2022,Male,East,Online: Other apps,1,62,68.78465115,4264.648371,1001.928892
+Sports,19-09-2022,Female,West,In-store,0,10,94.44743366,944.4743366,101.7492142
+Sports,27-05-2022,Female,North,Online: Other apps,1,21,88.4084034,1856.576471,278.0174245
+Appliances,14-09-2022,Male,South,In-store,0,36,78.94582989,2842.049876,754.4422328
+Electronics,27-02-2022,Male,South,Online: Own-website,1,12,80.96026089,971.5231307,288.6840507
+Sports,15-01-2022,Male,South,In-store,0,91,69.84864131,6356.226359,1663.525495
+Books,11-06-2022,Male,East,Online: Own-website,1,,,,
+Books,12-06-2022,Female,East,In-store,1,13,91.64755276,1191.418186,402.7620988
+Clothing,16-11-2022,Female,East,Online: Own-website,0,53,70.36590807,3729.393128,387.7432449
+Books,08-10-2022,Male,West,In-store,0,32,60.43965679,1934.069017,552.4437293
+Clothing,07-10-2022,Male,North,Online: Own-website,1,95,19.98905223,1898.959962,921.7545888
+Electronics,12-01-2022,Female,East,Online: Other apps,0,16,50.23499894,803.7599831,247.246949
+Appliances,01-10-2022,Female,North,Online: Other apps,0,32,51.43224441,1645.831821,610.6314317
+Appliances,28-09-2022,Male,West,Online: Own-website,0,32,87.81072486,2809.943195,631.5222097
+Appliances,27-07-2022,Male,South,In-store,0,98,59.19833982,5801.437302,2376.248711
+Books,27-01-2022,Male,East,Online: Own-website,1,11,44.23604941,486.5965435,199.1000229
+Electronics,13-03-2022,Female,North,In-store,1,10,97.91202957,979.1202957,302.0766457
+Books,01-03-2022,Female,North,Online: Other apps,0,15,19.9648534,299.472801,146.8631175
+Books,25-05-2022,Female,East,In-store,0,17,48.02935855,816.4990953,122.6545642
+Electronics,03-04-2022,Male,South,Online: Other apps,0,40,13.78222077,551.2888306,58.86610641
+Electronics,05-11-2022,Male,South,In-store,0,18,76.59137087,1378.644676,562.5742748
+Electronics,08-01-2022,Female,South,In-store,1,55,92.6268897,5094.478933,2154.262646
+Electronics,20-03-2022,Female,West,In-store,1,73,35.20335966,2569.845255,380.5501165
+Appliances,27-01-2022,Male,North,Online: Own-website,0,25,87.25075091,2181.268773,449.8498933
+Furniture,23-06-2022,Female,North,Online: Own-website,0,59,36.29964074,2141.678804,229.2044902
+Furniture,19-02-2022,Female,North,Online: Other apps,0,78,91.96931455,7173.606535,1558.99288
+Electronics,18-07-2022,Male,West,Online: Other apps,1,89,77.85657132,6929.234848,2835.836131
+Furniture,15-12-2022,Female,North,Online: Own-website,0,22,82.44160992,1813.715418,557.1447399
+Furniture,30-06-2022,Male,West,Online: Other apps,1,30,11.62059,348.6177001,83.40268406
+Electronics,24-01-2022,Male,South,Online: Own-website,0,84,96.65293214,8118.846299,2019.122309
+Furniture,12-11-2022,Male,East,In-store,1,85,75.40038929,6409.033089,644.3734817
+Books,15-02-2022,Male,North,Online: Other apps,0,44,37.42759858,1646.814338,362.1677567
+Clothing,15-01-2022,Male,North,Online: Other apps,1,32,84.64551984,2708.656635,971.2795673
+Clothing,02-06-2022,Male,South,Online: Own-website,0,51,35.33690786,1802.182301,882.4886237
+Electronics,10-08-2022,Male,East,Online: Other apps,0,46,88.54784556,4073.200896,1787.419657
+Appliances,25-07-2022,Female,West,Online: Other apps,0,21,20.13223514,422.7769379,46.26785655
+Electronics,30-09-2022,Male,East,In-store,1,99,73.33173797,7259.842059,3335.347434
+Appliances,24-08-2022,Male,South,Online: Other apps,0,32,58.6628629,1877.211613,775.8128239
+Clothing,06-12-2022,Female,South,In-store,1,94,18.68810232,1756.681618,724.0171183
+Electronics,16-08-2022,Female,East,Online: Own-website,1,39,31.77044454,1239.047337,350.896104
+Sports,09-01-2022,Female,West,Online: Other apps,0,12,11.11636326,133.3963592,34.57661872
+Books,15-06-2022,Male,West,In-store,0,47,52.18911689,2452.888494,542.4962517
+Furniture,15-11-2022,Female,North,Online: Own-website,0,18,37.11387347,668.0497224,84.35994516
+Appliances,02-08-2022,Male,West,Online: Other apps,1,21,63.85217359,1340.895645,256.5054865
+Sports,27-04-2022,Male,East,Online: Own-website,0,13,36.75140269,477.768235,94.90457688
+Furniture,10-12-2022,Male,South,Online: Other apps,1,21,36.99272004,776.8471207,228.1062632
+Furniture,13-03-2022,Male,North,Online: Own-website,1,,,,
+Electronics,05-03-2022,Female,North,Online: Own-website,0,46,14.33285524,659.311341,190.8864114
+Furniture,24-07-2022,Female,South,In-store,0,,,,
+Books,28-07-2022,Male,West,Online: Own-website,0,23,86.7037487,1994.18622,963.4231111
+Sports,13-03-2022,Male,South,Online: Other apps,0,96,70.10242149,6729.832463,3210.733937
+Furniture,04-10-2022,Male,West,Online: Other apps,0,75,63.38994131,4754.245598,1968.618132
+Electronics,01-10-2022,Female,South,In-store,0,86,90.30722483,7766.421336,3856.2702
+Books,16-11-2022,Male,East,Online: Other apps,1,22,26.67971616,586.9537555,186.5297556
+Clothing,04-12-2022,Male,West,Online: Other apps,1,89,17.1072246,1522.542989,738.5967797
+Sports,05-04-2022,Female,East,Online: Other apps,1,22,31.55591529,694.2301364,90.41793271
+Furniture,15-06-2022,Female,North,Online: Own-website,0,92,81.51204508,7499.108148,1846.822606
+Electronics,01-02-2022,Male,South,Online: Own-website,1,29,13.12032401,380.4893962,72.35101264
+Clothing,11-01-2022,Female,North,Online: Other apps,1,13,62.45261516,811.883997,144.7858985
+Clothing,28-10-2022,Female,North,In-store,1,82,99.58937646,8166.328869,1276.570162
+Appliances,05-08-2022,Male,North,Online: Own-website,1,,,,
+Books,16-10-2022,Female,North,In-store,1,29,56.93011201,1650.973248,681.0739177
+Furniture,12-04-2022,Male,South,Online: Other apps,0,85,15.72768184,1336.852956,442.9252655
+Electronics,24-09-2022,Female,North,Online: Other apps,0,79,84.82361629,6701.065687,1064.029277
+Appliances,02-08-2022,Male,South,Online: Own-website,1,52,63.90806574,3323.219418,1410.538847
+Books,28-06-2022,Male,South,Online: Other apps,1,27,20.34396974,549.2871829,194.6574261
+Appliances,29-03-2022,Male,East,Online: Own-website,1,50,18.44715563,922.3577817,235.446842
+Sports,10-02-2022,Female,West,Online: Other apps,0,95,91.86641375,8727.309306,3226.068371
+Books,17-03-2022,Male,West,Online: Other apps,0,79,70.22802366,5548.013869,1131.583959
+Books,15-02-2022,Female,South,Online: Own-website,1,23,84.63581194,1946.623675,463.4460976
+Furniture,09-06-2022,Male,East,Online: Own-website,0,88,89.10810103,7841.51289,3661.942115
+Books,21-03-2022,Male,South,Online: Own-website,0,44,61.45951168,2704.218514,584.6569165
+Appliances,06-11-2022,Female,South,Online: Other apps,1,77,56.57017166,4355.903218,1254.479686
+Books,27-03-2022,Male,South,Online: Other apps,0,22,48.73846693,1072.246272,489.0048338
+Furniture,02-04-2022,Male,East,In-store,0,43,38.5251929,1656.583295,634.618076
+Furniture,28-05-2022,Female,West,Online: Own-website,1,37,49.11363648,1817.20455,226.9348492
+Sports,10-06-2022,Male,East,Online: Other apps,0,61,79.64916902,4858.59931,772.1345187
+Appliances,21-07-2022,Male,North,Online: Other apps,0,97,64.17310879,6224.791553,642.0040625
+Clothing,30-08-2022,Male,East,Online: Own-website,1,56,90.3270961,5058.317381,1782.392801
+Clothing,19-12-2022,Male,East,In-store,0,,,,
+Books,02-01-2022,Female,East,Online: Own-website,0,63,64.63806208,4072.197911,625.9372981
+Sports,13-08-2022,Female,East,In-store,1,19,66.81767978,1269.535916,613.4063002
+Electronics,16-10-2022,Male,West,Online: Other apps,1,23,63.25274461,1454.813126,453.7036801
+Books,21-08-2022,Female,North,In-store,1,29,73.23703958,2123.874148,417.8877803
+Sports,18-03-2022,Male,West,Online: Other apps,0,30,31.36901215,941.0703646,282.5483106
+Appliances,26-04-2022,Female,West,Online: Own-website,1,39,56.11273998,2188.396859,813.7512866
+Appliances,03-06-2022,Male,East,Online: Own-website,0,25,19.38023225,484.5058063,63.22591814
+Appliances,13-04-2022,Male,South,Online: Own-website,1,8,44.60601949,356.8481559,74.89583552
+Appliances,13-07-2022,Male,South,In-store,0,58,53.89003618,3125.622098,1321.469878
+Appliances,15-06-2022,Male,West,Online: Other apps,1,16,68.70018336,1099.202934,312.026283
+Sports,25-12-2022,Male,West,Online: Own-website,1,72,95.54779473,6879.441221,2192.002251
+Sports,31-03-2022,Male,East,Online: Own-website,1,,,,
+Furniture,23-06-2022,Female,West,Online: Other apps,1,,,,
+Clothing,02-05-2022,Male,East,Online: Own-website,0,,55.56394535,,
+Appliances,23-05-2022,Female,South,Online: Other apps,1,65,67.06936282,4359.508584,1212.887898
+Electronics,16-04-2022,Male,South,Online: Other apps,1,,,,
+Sports,01-11-2022,Female,North,Online: Other apps,0,99,32.89524228,3256.628985,390.7681599
+Electronics,26-12-2022,Female,South,Online: Other apps,1,96,42.56677839,4086.410725,1787.640687
+Electronics,13-11-2022,Female,West,Online: Other apps,0,64,52.52440195,3361.561725,1655.491873
+Electronics,03-05-2022,Male,South,In-store,1,98,14.1083871,1382.621935,576.9088877
+Furniture,09-01-2022,Male,East,Online: Own-website,1,89,22.60216878,2011.593021,888.1464183
+Sports,19-09-2022,Female,South,In-store,1,10,34.9132877,349.132877,68.70615637
+Electronics,14-03-2022,Male,North,Online: Own-website,0,21,97.43794218,2046.196786,990.8724104
+Appliances,25-12-2022,Female,South,In-store,1,46,39.82123064,1831.776609,327.4672206
+Books,11-08-2022,Male,East,Online: Other apps,1,91,53.38369523,4857.916266,2334.578167
+Electronics,10-02-2022,Female,East,Online: Own-website,1,27,27.64879415,746.517442,371.711726
+Furniture,23-07-2022,Female,West,Online: Own-website,0,66,64.9702064,4288.033622,1649.559891
+Sports,21-09-2022,Male,South,In-store,0,41,35.2614894,1445.721065,711.956171
+Furniture,24-11-2022,Female,East,In-store,1,13,28.62933206,372.1813168,122.0069577
+Electronics,27-06-2022,Male,North,Online: Own-website,0,9,56.49153656,508.423829,103.6252738
+Sports,14-12-2022,Female,West,In-store,1,36,10.49552192,377.8387893,103.8294775
+Books,14-11-2022,Female,North,In-store,1,86,10.68976294,919.3196127,310.200845
+Electronics,25-03-2022,Male,South,In-store,1,90,29.71619282,2674.457354,345.6271438
+Furniture,14-11-2022,Male,South,Online: Other apps,1,58,13.30492263,771.6855123,269.2698636
+Clothing,21-04-2022,Male,South,Online: Other apps,1,54,19.72231787,1065.005165,524.4843021
+Appliances,08-09-2022,Female,West,In-store,1,12,40.49745844,485.9695013,85.55155803
+Furniture,07-01-2022,Male,East,In-store,1,81,82.23271116,6660.849604,2777.827707
+Sports,25-03-2022,Female,West,Online: Other apps,0,78,61.4843779,4795.781476,2221.211835
+Electronics,27-07-2022,Female,North,Online: Other apps,0,14,56.14009534,785.9613347,375.2813189
+Appliances,10-11-2022,Male,West,Online: Own-website,0,34,36.41399409,1238.075799,599.2958421
+Electronics,22-01-2022,Male,North,Online: Own-website,0,53,93.85783475,4974.465242,1535.039663
+Sports,03-01-2022,Female,West,Online: Other apps,0,20,45.73135371,914.6270742,449.0116164
+Electronics,07-05-2022,Female,East,In-store,0,75,17.83834901,1337.876176,539.0625311
+Clothing,24-10-2022,Male,North,In-store,0,16,65.53598645,1048.575783,172.6674795
+Appliances,07-07-2022,Male,South,In-store,1,95,20.24545541,1923.318264,559.2241004
+Appliances,28-12-2022,Male,South,In-store,1,70,41.07008285,2874.9058,1113.544365
+Sports,14-01-2022,Male,West,Online: Own-website,1,56,55.66707448,3117.356171,620.1547611
+Clothing,12-01-2022,Male,South,Online: Other apps,1,83,88.68002722,7360.442259,2622.128654
+Furniture,28-03-2022,Female,North,In-store,0,58,54.41919223,3156.313149,1157.231258
+Electronics,12-01-2022,Female,South,Online: Own-website,0,,,,
+Books,25-01-2022,Female,East,In-store,1,,,,
+Electronics,28-10-2022,Female,East,Online: Other apps,1,20,21.83402079,436.6804158,178.4497857
+Electronics,31-08-2022,Male,West,Online: Own-website,0,10,34.7258373,347.258373,104.024116
+Furniture,02-05-2022,Male,North,Online: Other apps,1,24,45.5118468,1092.284323,114.5164502
+Electronics,27-05-2022,Male,East,Online: Other apps,1,99,47.96453607,4748.489071,492.0165357
+Clothing,24-02-2022,Female,East,Online: Own-website,1,26,46.99189677,1221.789316,296.6647868
+Clothing,26-08-2022,Female,North,Online: Own-website,1,37,91.68499023,3392.344639,1596.022257
+Appliances,22-12-2022,Male,South,Online: Own-website,0,85,74.262938,6312.34973,1208.630096
+Sports,22-06-2022,Male,South,Online: Own-website,1,54,64.71146927,3494.41934,1236.135031
+Books,09-08-2022,Female,West,Online: Own-website,1,21,37.84354461,794.7144368,150.0662039
+Electronics,29-04-2022,Female,South,Online: Own-website,0,74,84.14113458,6226.443959,1423.788461
+Electronics,05-11-2022,Male,North,Online: Own-website,0,38,95.95544603,3646.306949,1601.519401
+Furniture,02-07-2022,Male,East,In-store,1,46,83.90784543,3859.76089,1511.268445
+Sports,15-10-2022,Female,South,Online: Other apps,0,4,10.14085947,40.56343787,5.60423285
+Clothing,03-11-2022,Male,West,Online: Own-website,1,60,67.27612332,4036.567399,1095.850581
+Books,27-10-2022,Male,South,In-store,1,57,14.60218433,832.3245068,92.94393434
+Appliances,23-03-2022,Male,North,In-store,0,45,33.18464983,1493.309242,436.5780044
+Clothing,30-07-2022,Female,West,In-store,1,20,15.35722303,307.1444606,112.099621
+Sports,30-05-2022,Female,South,Online: Other apps,1,17,64.34159077,1093.807043,161.228306
+Appliances,06-02-2022,Female,West,Online: Own-website,1,71,71.79309221,5097.309547,1098.745338
+Furniture,18-12-2022,Female,North,In-store,1,4,20.30388743,81.2155497,21.04576306
+Furniture,08-11-2022,Female,East,Online: Other apps,0,93,44.54549947,4142.731451,1938.021184
+Electronics,27-12-2022,Female,North,Online: Other apps,0,14,51.06128581,714.8580013,355.5003182
+Sports,28-02-2022,Female,North,Online: Other apps,1,3,43.21477196,129.6443159,15.29342944
+Books,11-05-2022,Male,North,In-store,0,88,20.89225004,1838.518004,743.5025077
+Appliances,21-07-2022,Male,North,Online: Own-website,1,80,47.70530112,3816.424089,949.1050816
+Clothing,31-08-2022,Male,East,In-store,1,58,77.6060243,4501.14941,1156.720114
+Sports,04-02-2022,Male,East,In-store,1,55,16.39068981,901.4879394,362.1331046
+Sports,03-04-2022,Male,West,Online: Own-website,1,4,17.21620127,68.86480507,32.1853834
+Furniture,26-07-2022,Male,South,Online: Own-website,1,24,41.92941627,1006.30599,483.4006555
+Electronics,19-12-2022,Male,East,Online: Own-website,0,34,94.75531405,3221.680678,1065.889941
+Electronics,28-11-2022,Female,East,Online: Other apps,1,30,70.17153821,2105.146146,511.2315075
+Appliances,01-11-2022,Female,South,Online: Own-website,0,82,71.0802961,5828.58428,2418.976917
+Furniture,16-12-2022,Male,East,In-store,0,19,42.57279918,808.8831843,162.1006377
+Sports,01-08-2022,Male,North,Online: Own-website,1,31,63.42947121,1966.313607,640.2899362
+Books,08-06-2022,Female,North,In-store,1,60,10.91180656,654.7083937,159.3765708
+Furniture,24-01-2022,Male,South,Online: Other apps,1,60,67.24864418,4034.918651,1463.273051
+Appliances,20-10-2022,Male,West,In-store,1,19,92.19582528,1751.72068,343.6167669
+Appliances,04-01-2022,Female,West,In-store,1,49,65.13161215,3191.448995,563.7285452
+Furniture,08-08-2022,Male,South,Online: Own-website,0,63,88.63287341,5583.871025,2609.318555
+Appliances,30-12-2022,Female,South,Online: Own-website,1,83,75.15757499,6238.078724,877.8316279
+Furniture,20-01-2022,Male,North,In-store,1,22,20.85025748,458.7056645,138.7048698
+Clothing,01-06-2022,Female,West,Online: Own-website,0,24,91.22079766,2189.299144,412.3350378
+Furniture,19-02-2022,Female,East,Online: Other apps,0,76,15.97994599,1214.475895,140.3593904
+Furniture,26-06-2022,Female,North,Online: Other apps,1,30,58.05707253,1741.712176,199.2649833
+Appliances,06-04-2022,Male,South,Online: Own-website,0,58,22.79234114,1321.955786,224.8497528
+Appliances,15-04-2022,Female,West,Online: Other apps,1,31,11.05359497,342.6614439,153.0696569
+Electronics,07-09-2022,Male,East,Online: Own-website,0,64,47.98308341,3070.917338,654.0792829
+Electronics,27-04-2022,Male,East,In-store,0,19,36.55366369,694.5196101,333.496974
+Clothing,20-12-2022,Male,North,In-store,1,48,53.74004444,2579.522133,858.0752445
+Electronics,16-08-2022,Male,West,Online: Other apps,0,45,61.94798981,2787.659541,765.6186389
+Furniture,07-03-2022,Female,West,Online: Own-website,0,94,13.93651651,1310.032552,434.9773577
+Appliances,01-12-2022,Female,South,Online: Own-website,0,55,21.07029656,1158.866311,355.4003717
+Electronics,19-09-2022,Male,West,Online: Other apps,0,55,60.27781568,3315.279862,1337.75024
+Electronics,22-10-2022,Male,West,In-store,0,97,40.88506179,3965.850993,844.7200208
+Clothing,31-08-2022,Female,North,Online: Other apps,0,18,75.62561388,1361.26105,328.3636037
+Sports,05-07-2022,Male,West,In-store,1,63,68.70624837,4328.493648,1980.881968
+Clothing,03-09-2022,Female,East,Online: Own-website,1,92,86.10439267,7921.604126,3791.14194
+Furniture,05-05-2022,Male,North,In-store,0,47,72.3243544,3399.244657,1553.53398
+Appliances,25-09-2022,Male,North,Online: Other apps,1,75,48.69379697,3652.034772,977.9389409
+Clothing,11-05-2022,Female,South,Online: Own-website,1,57,70.56699602,4022.318773,1657.783402
+Electronics,25-08-2022,Male,West,Online: Other apps,1,45,34.78430568,1565.293756,454.7715152
+Appliances,18-01-2022,Female,South,Online: Other apps,0,33,37.56821489,1239.751091,370.705339
+Appliances,09-02-2022,Male,East,In-store,1,17,81.00866439,1377.147295,250.4645929
+Electronics,21-01-2022,Male,North,Online: Other apps,0,70,50.17775648,3512.442953,1181.768883
+Clothing,13-08-2022,Male,North,In-store,1,4,81.85423065,327.4169226,57.11930939
+Electronics,21-12-2022,Female,North,Online: Own-website,0,20,84.01801363,1680.360273,390.8952865
+Sports,09-10-2022,Male,East,In-store,0,47,87.18061039,4097.488688,1811.139501
+Appliances,08-01-2022,Male,East,Online: Own-website,1,91,92.49717123,8417.242582,1538.927186
+Books,10-04-2022,Male,South,In-store,1,15,48.78866985,731.8300477,94.01331326
+Books,28-08-2022,Male,South,Online: Other apps,0,70,38.69801365,2708.860955,345.6588848
+Furniture,28-03-2022,Female,South,In-store,1,47,62.39788719,2932.700698,1396.885838
+Electronics,25-10-2022,Female,West,In-store,1,78,43.40551811,3385.630413,1025.061142
+Electronics,14-01-2022,Male,North,Online: Own-website,1,75,64.09667501,4807.250626,1267.983638
+Furniture,30-11-2022,Female,North,Online: Other apps,0,9,73.50272764,661.5245487,280.7188898
+Furniture,02-01-2022,Male,South,In-store,0,90,71.95645166,6476.08065,2812.758512
+Furniture,20-10-2022,Male,North,Online: Other apps,1,16,43.70975983,699.3561573,162.8635535
+Appliances,21-11-2022,Male,South,In-store,1,69,25.01741815,1726.201853,651.5500956
+Sports,10-02-2022,Female,West,In-store,1,61,48.74764046,2973.606068,1214.566801
+Electronics,14-11-2022,Female,West,Online: Other apps,0,10,22.83347297,228.3347297,82.62526801
+Appliances,12-11-2022,Female,East,In-store,0,50,90.10873317,4505.436658,723.7444687
+Furniture,21-04-2022,Female,West,Online: Other apps,1,3,41.12897147,123.3869144,55.56769586
+Electronics,14-01-2022,Female,South,In-store,1,77,23.90137725,1840.406048,580.901755
+Appliances,19-08-2022,Female,West,Online: Own-website,1,94,12.29029839,1155.288049,246.0636122
+Sports,25-03-2022,Female,East,Online: Other apps,1,70,68.12401477,4768.681034,1287.979137
+Appliances,10-05-2022,Female,North,In-store,1,81,67.32120857,5453.017894,627.2521207
+Sports,19-08-2022,Female,South,In-store,1,51,40.65437499,2073.373125,313.3835481
+Furniture,22-11-2022,Male,North,Online: Own-website,0,19,16.45407,312.6273299,126.9950676
+Sports,25-05-2022,Female,East,Online: Other apps,1,42,46.86660054,1968.397223,196.848883
+Electronics,11-12-2022,Female,East,In-store,0,35,38.00957456,1330.335109,354.7023698
+Furniture,28-01-2022,Female,East,Online: Own-website,1,46,70.94085758,3263.279449,1008.366639
+Electronics,07-03-2022,Female,North,In-store,1,26,64.52013245,1677.523444,204.4125525
+Books,12-06-2022,Female,North,Online: Other apps,0,69,42.81343554,2954.127052,1445.251315
+Clothing,17-08-2022,Female,North,In-store,0,93,29.61032988,2753.760679,524.4540862
+Sports,18-09-2022,Female,North,In-store,0,64,98.92323695,6331.087165,1403.47216
+Clothing,13-06-2022,Female,East,In-store,0,37,50.86014591,1881.825399,416.9692356
+Clothing,28-10-2022,Female,East,In-store,1,84,71.94468122,6043.353222,1161.331033
+Sports,30-10-2022,Female,South,Online: Own-website,0,49,22.64976708,1109.838587,111.6381406
+Furniture,14-10-2022,Female,South,Online: Own-website,1,21,53.70307297,1127.764532,441.7881295
+Books,10-01-2022,Male,North,Online: Other apps,0,74,12.47830479,923.3945543,449.4514032
+Electronics,14-07-2022,Male,West,Online: Own-website,1,64,55.49096061,3551.421479,673.7664256
+Appliances,28-04-2022,Female,West,Online: Own-website,1,5,96.76156664,483.8078332,176.6957534
+Electronics,27-09-2022,Female,East,Online: Other apps,1,70,44.57860417,3120.502292,1238.085905
+Appliances,21-03-2022,Male,East,Online: Own-website,1,90,13.50964113,1215.867702,534.2159765
+Electronics,03-04-2022,Female,East,Online: Own-website,1,4,12.78602118,51.14408473,13.76040186
+Sports,23-09-2022,Male,South,Online: Other apps,1,39,44.9188084,1751.833527,387.4571595
+Books,28-11-2022,Male,South,Online: Other apps,0,35,24.40224428,854.0785499,196.5388935
+Appliances,16-12-2022,Male,East,Online: Other apps,1,1,12.10168867,12.10168867,4.659737472
+Furniture,27-12-2022,Male,East,In-store,0,24,78.05922526,1873.421406,799.4109953
+Electronics,14-09-2022,Male,East,In-store,0,57,51.2670708,2922.223036,504.5089116
+Electronics,13-05-2022,Female,West,Online: Other apps,1,70,36.03202948,2522.242063,626.4654119
+Appliances,03-10-2022,Male,South,Online: Other apps,0,41,91.00748647,3731.306945,1719.296983
+Furniture,21-09-2022,Female,West,Online: Other apps,1,54,20.45250642,1104.435347,466.8198695
+Furniture,20-06-2022,Female,West,In-store,0,46,96.03269461,4417.503952,2181.99675
+Sports,01-01-2022,Male,East,In-store,1,60,38.25700456,2295.420274,922.0687261
+Sports,09-11-2022,Male,East,Online: Own-website,0,60,89.95633051,5397.37983,1388.627522
+Sports,05-03-2022,Female,North,Online: Own-website,1,57,64.26485888,3663.096956,1231.735156
+Sports,11-10-2022,Male,North,Online: Other apps,1,31,84.40366238,2616.513534,953.4724502
+Sports,01-05-2022,Male,West,In-store,1,84,98.56118469,8279.139514,1087.732611
+Sports,17-04-2022,Female,South,In-store,1,24,35.9564894,862.9557457,274.2462863
+Books,24-06-2022,Female,East,In-store,0,89,96.50219369,8588.695238,3295.725693
+Furniture,23-07-2022,Male,East,Online: Other apps,1,36,45.05337054,1621.921339,270.7449314
+Sports,14-06-2022,Female,West,Online: Own-website,0,85,44.69607143,3799.166071,1566.216421
+Furniture,01-11-2022,Male,North,Online: Other apps,0,30,40.63483938,1219.045181,406.5626762
+Furniture,30-04-2022,Male,South,Online: Own-website,0,24,58.72668466,1409.440432,677.7839971
+Clothing,13-02-2022,Male,North,Online: Own-website,1,30,23.87305389,716.1916166,83.77215939
+Books,08-11-2022,Female,North,Online: Other apps,0,86,59.83403368,5145.726897,1060.691027
+Sports,05-06-2022,Female,North,Online: Own-website,0,92,58.75343312,5405.315847,1841.167071
+Electronics,26-07-2022,Female,North,Online: Own-website,0,7,78.57116313,549.9981419,120.2427745
+Appliances,18-04-2022,Female,East,In-store,1,35,85.02849657,2975.99738,1148.049514
+Electronics,08-09-2022,Female,East,Online: Own-website,1,55,49.63972153,2730.184684,1101.908307
+Books,30-11-2022,Male,North,Online: Other apps,0,92,37.20999244,3423.319305,482.709882
+Appliances,10-05-2022,Male,South,Online: Other apps,1,14,33.34014076,466.7619706,142.615286
+Books,20-10-2022,Male,West,Online: Own-website,1,10,27.5161453,275.161453,83.52697119
+Furniture,20-01-2022,Male,South,In-store,0,80,15.1882824,1215.062592,300.9859591
+Appliances,09-10-2022,Female,South,In-store,0,16,40.8203181,653.1250895,309.0391627
+Furniture,12-10-2022,Male,South,Online: Own-website,1,54,34.32229229,1853.403784,798.8217161
+Electronics,01-01-2022,Female,North,Online: Own-website,0,95,96.97756473,9212.868649,3490.606248
+Electronics,29-04-2022,Male,East,Online: Other apps,1,89,60.19379436,5357.247698,2066.45466
+Appliances,04-02-2022,Female,South,Online: Own-website,1,77,41.25493351,3176.62988,904.3435075
+Appliances,17-07-2022,Female,North,In-store,1,70,62.24208409,4356.945886,2040.783905
+Sports,02-09-2022,Male,South,Online: Own-website,1,44,22.52770312,991.2189373,374.5203502
+Books,28-02-2022,Male,South,Online: Other apps,1,73,49.96393743,3647.367432,1428.281456
+Sports,21-11-2022,Male,North,Online: Other apps,1,45,66.36108893,2986.249002,1327.914341
+Books,10-06-2022,Male,East,Online: Other apps,0,56,54.00080486,3024.045072,633.9264429
+Sports,28-06-2022,Female,East,Online: Other apps,0,84,46.16009206,3877.447733,1639.494872
+Furniture,25-07-2022,Male,West,Online: Other apps,1,82,99.446355,8154.60111,1452.303806
+Appliances,12-01-2022,Male,North,Online: Own-website,1,57,89.22832859,5086.01473,1211.167175
+Electronics,03-10-2022,Female,West,Online: Own-website,1,21,66.10653623,1388.237261,325.1865012
+Books,30-06-2022,Male,West,Online: Own-website,0,68,61.24396251,4164.58945,2046.521682
+Books,30-08-2022,Male,West,Online: Own-website,1,50,65.85944318,3292.972159,1457.518508
+Electronics,04-08-2022,Male,East,Online: Other apps,0,33,28.1180897,927.8969602,353.0350493
+Sports,08-09-2022,Male,North,In-store,1,91,45.56239689,4146.178117,1620.420546
+Books,26-10-2022,Male,West,Online: Own-website,1,7,13.55135796,94.85950572,30.81312955
+Furniture,06-05-2022,Female,North,In-store,0,70,52.79914337,3695.940036,1769.750129
+Appliances,05-08-2022,Male,North,Online: Own-website,0,15,58.87221256,883.0831883,263.6034235
+Electronics,02-11-2022,Male,East,Online: Own-website,1,82,30.49747625,2500.793052,630.7177233
+Appliances,12-10-2022,Male,West,In-store,1,32,96.76259624,3096.40308,511.5695557
+Books,04-07-2022,Male,West,Online: Other apps,1,75,91.85091498,6888.818624,2855.293118
+Books,08-02-2022,Male,North,Online: Own-website,0,20,74.99289119,1499.857824,590.6103735
+Electronics,11-08-2022,Female,South,Online: Own-website,0,88,58.00479659,5104.4221,1295.206351
+Furniture,03-07-2022,Male,East,Online: Own-website,0,15,88.29722437,1324.458366,145.7928877
+Clothing,27-06-2022,Female,East,In-store,0,48,21.75871094,1044.418125,454.947419
+Electronics,21-10-2022,Female,East,Online: Other apps,0,71,81.14588148,5761.357585,602.4489928
+Clothing,06-12-2022,Male,East,In-store,0,21,21.23387326,445.9113384,170.1062181
+Sports,31-05-2022,Male,West,In-store,1,42,81.47895963,3422.116304,1670.3447
+Clothing,06-05-2022,Male,West,Online: Other apps,1,26,34.81908114,905.2961097,249.0148501
+Furniture,28-10-2022,Male,South,In-store,0,14,88.93815229,1245.134132,241.5427759
+Sports,04-11-2022,Female,East,Online: Other apps,1,57,94.96378844,5412.935941,2067.462244
+Clothing,02-12-2022,Male,East,Online: Own-website,1,37,23.39163725,865.4905781,369.435741
+Sports,22-08-2022,Male,North,Online: Other apps,0,58,51.64080446,2995.166658,954.1766114
+Clothing,08-01-2022,Male,West,Online: Own-website,1,21,98.28886403,2064.066145,1004.816523
+Furniture,07-12-2022,Male,East,In-store,0,82,53.50666924,4387.546877,529.4342631
+Clothing,09-05-2022,Male,South,In-store,0,69,87.71927703,6052.630115,1827.399428
+Clothing,21-09-2022,Male,South,Online: Own-website,1,3,62.98583699,188.957511,73.19865895
+Clothing,06-06-2022,Female,West,In-store,0,87,43.77969171,3808.833179,1695.144777
+Electronics,18-12-2022,Female,South,Online: Other apps,0,90,35.72052,3214.8468,551.9964121
+Electronics,24-12-2022,Male,South,Online: Own-website,0,37,28.2900782,1046.732893,439.629273
+Electronics,05-01-2022,Male,West,In-store,0,88,78.56183722,6913.441676,2219.78742
+Furniture,27-03-2022,Male,East,Online: Own-website,0,49,44.78864561,2194.643635,567.5819692
+Sports,24-06-2022,Female,East,Online: Other apps,0,19,56.0147916,1064.28104,162.5008271
+Books,17-10-2022,Male,South,Online: Other apps,0,89,54.3092932,4833.527095,2156.324908
+Clothing,12-07-2022,Female,South,In-store,0,85,61.95511263,5266.184574,857.9103545
+Clothing,07-11-2022,Male,East,Online: Other apps,1,12,87.90194311,1054.823317,236.1909146
+Furniture,29-04-2022,Male,West,Online: Own-website,1,61,98.26654092,5994.258996,1294.869115
+Clothing,06-08-2022,Male,South,Online: Other apps,1,41,46.68257877,1913.98573,858.5481834
+Electronics,24-04-2022,Male,North,Online: Own-website,0,33,84.47670299,2787.731199,1028.89917
+Books,25-05-2022,Female,West,Online: Own-website,0,50,78.80750152,3940.375076,1649.726916
+Appliances,26-01-2022,Female,South,Online: Other apps,1,68,61.61760563,4189.997183,838.7836344
+Clothing,16-05-2022,Male,South,In-store,1,71,96.04424293,6819.141248,2386.356024
+Electronics,30-10-2022,Male,North,Online: Other apps,1,86,28.0427064,2411.67275,792.7129581
+Appliances,20-08-2022,Female,North,Online: Own-website,0,33,19.83377893,654.5147046,283.4913617
+Books,17-03-2022,Female,East,Online: Own-website,1,81,86.85657703,7035.382739,3253.40598
+Appliances,24-11-2022,Female,West,Online: Other apps,1,24,49.5234835,1188.563604,124.6359988
+Electronics,11-12-2022,Female,West,In-store,0,61,86.22719688,5259.85901,1944.085799
+Sports,29-10-2022,Male,East,In-store,1,61,90.37811847,5513.065227,665.6161793
+Sports,16-10-2022,Female,West,Online: Own-website,0,98,15.62118343,1530.875976,489.1814153
+Appliances,01-01-2022,Male,West,Online: Own-website,0,28,89.51182867,2506.331203,538.9942738
+Furniture,27-05-2022,Female,West,In-store,0,58,50.34871498,2920.225469,650.3652826
+Appliances,14-10-2022,Female,West,Online: Other apps,1,43,55.93892401,2405.373732,580.1362184
+Clothing,22-05-2022,Female,West,Online: Own-website,1,41,66.393326,2722.126366,948.7072592
+Clothing,22-02-2022,Female,North,Online: Own-website,0,39,93.37443461,3641.60295,850.7512311
+Sports,31-10-2022,Female,West,In-store,1,86,11.7204485,1007.958571,396.2079723
+Furniture,10-03-2022,Male,North,Online: Other apps,1,49,52.91591215,2592.879695,678.8443072
+Electronics,27-12-2022,Male,West,In-store,1,17,71.89498382,1222.214725,155.6383877
+Clothing,31-03-2022,Female,East,Online: Other apps,1,98,75.04362619,7354.275367,3041.021818
+Sports,08-08-2022,Female,South,Online: Other apps,0,70,72.32791884,5062.954319,1085.007969
+Books,11-07-2022,Male,North,Online: Other apps,1,70,22.09916165,1546.941315,422.4801179
+Sports,04-03-2022,Female,West,Online: Own-website,0,98,36.94560295,3620.669089,1354.773101
+Clothing,14-03-2022,Female,East,In-store,0,65,42.28439729,2748.485824,640.3489963
+Clothing,10-06-2022,Male,South,In-store,1,74,82.39934869,6097.551803,747.7687682
+Sports,18-06-2022,Female,North,Online: Other apps,0,85,35.08838852,2982.513024,744.3410595
+Electronics,30-03-2022,Female,South,Online: Own-website,1,5,28.96344675,144.8172337,69.19069584
+Appliances,25-06-2022,Male,East,Online: Own-website,1,2,96.17032171,192.3406434,68.6067071
+Clothing,26-09-2022,Male,North,In-store,0,22,10.79769566,237.5493045,87.55869236
+Sports,14-03-2022,Male,South,Online: Own-website,0,57,99.80387701,5688.82099,2007.658094
+Sports,02-09-2022,Female,West,Online: Own-website,0,66,70.9139169,4680.318515,840.5704885
+Furniture,18-03-2022,Male,North,Online: Other apps,0,74,84.56223695,6257.605534,1672.867875
+Appliances,08-06-2022,Male,South,Online: Own-website,1,98,36.51574567,3578.543076,1432.762474
+Books,20-11-2022,Male,East,Online: Other apps,1,16,11.28837499,180.6139998,25.38514579
+Electronics,08-04-2022,Male,East,In-store,1,51,76.40825667,3896.82109,822.7791322
+Books,12-04-2022,Male,North,Online: Own-website,0,39,85.07301373,3317.847535,698.4986228
+Appliances,12-05-2022,Male,South,In-store,0,86,76.64285188,6591.285261,1798.152522
+Appliances,12-04-2022,Female,North,In-store,0,76,22.85652586,1737.095965,854.9074302
+Appliances,19-01-2022,Female,North,Online: Own-website,1,88,77.808513,6847.149144,869.5949163
+Books,23-03-2022,Male,South,Online: Own-website,0,40,79.20305039,3168.122016,974.1354175
+Appliances,06-10-2022,Male,South,In-store,1,38,69.26864641,2632.208564,452.0709572
+Sports,05-12-2022,Male,West,Online: Own-website,0,60,78.95043395,4737.026037,2312.950631
+Books,27-11-2022,Female,South,Online: Other apps,1,59,86.13292957,5081.842845,738.5005264
+Appliances,09-05-2022,Female,East,Online: Other apps,1,10,65.22437028,652.2437028,170.5228552
+Sports,10-12-2022,Female,North,Online: Own-website,0,99,17.97442426,1779.468001,703.1638879
+Furniture,06-11-2022,Female,North,In-store,0,64,53.88650287,3448.736184,1316.802558
+Appliances,30-03-2022,Female,East,Online: Own-website,1,63,16.98844012,1070.271728,288.0009762
+Books,01-08-2022,Female,South,Online: Own-website,1,49,46.67887279,2287.264767,545.7634848
+Clothing,23-05-2022,Female,East,In-store,0,64,46.63958402,2984.933377,773.2319217
+Appliances,06-03-2022,Female,East,In-store,0,32,15.94088597,510.1083511,104.9346466
+Clothing,17-03-2022,Female,West,Online: Other apps,1,7,41.39384806,289.7569364,52.77435094
+Sports,18-07-2022,Male,East,In-store,0,21,19.98982889,419.7864067,123.0880402
+Furniture,23-05-2022,Male,North,Online: Other apps,1,20,82.7411689,1654.823378,343.2327127
+Electronics,12-11-2022,Male,East,In-store,1,26,95.29192234,2477.589981,532.6438544
+Furniture,03-04-2022,Male,North,Online: Own-website,0,68,16.50848277,1122.576829,407.1613384
+Appliances,01-11-2022,Female,North,Online: Other apps,0,86,95.96036866,8252.591704,4022.43643
+Clothing,12-08-2022,Female,North,Online: Other apps,0,15,57.03189394,855.4784091,292.1072777
+Clothing,18-10-2022,Male,South,Online: Other apps,0,85,36.96091102,3141.677436,410.9056055
+Books,12-04-2022,Female,West,Online: Own-website,0,79,16.91758677,1336.489355,174.0556137
+Clothing,24-09-2022,Male,North,Online: Own-website,1,86,55.05618413,4734.831835,2275.414765
+Books,21-12-2022,Female,North,Online: Own-website,1,92,81.506399,7498.588708,1641.563416
+Sports,20-04-2022,Male,South,Online: Own-website,0,14,73.63778295,1030.928961,141.0587051
+Electronics,26-11-2022,Female,North,Online: Own-website,0,27,14.52034103,392.0492079,133.1469031
+Appliances,22-09-2022,Female,East,Online: Other apps,0,40,16.56116518,662.4466073,231.4982677
+Books,03-01-2022,Male,East,Online: Own-website,1,58,46.25859544,2682.998535,964.2748466
+Electronics,26-03-2022,Female,West,Online: Other apps,0,28,36.57614446,1024.132045,211.9551988
+Clothing,09-10-2022,Male,North,Online: Own-website,0,26,30.91458908,803.779316,85.23619376
+Clothing,24-11-2022,Male,South,In-store,1,63,35.2904049,2223.295509,1080.535286
+Electronics,31-10-2022,Male,East,Online: Other apps,1,66,82.3134469,5432.687495,1088.478154
+Clothing,27-04-2022,Male,South,In-store,0,25,93.63052483,2340.763121,867.0432735
+Sports,09-08-2022,Female,South,Online: Other apps,0,3,46.45924251,139.3777275,53.33315894
+Sports,03-06-2022,Female,East,In-store,0,72,91.54999019,6591.599294,2267.529713
+Electronics,02-06-2022,Female,South,Online: Own-website,1,44,38.93461311,1713.122977,385.7318364
+Books,12-01-2022,Male,East,Online: Own-website,0,97,52.87932877,5129.294891,1069.142541
+Books,13-05-2022,Female,South,Online: Own-website,0,42,30.3426098,1274.389612,432.1038615
+Electronics,31-10-2022,Male,East,Online: Other apps,0,99,67.6428438,6696.641536,2989.636951
+Books,20-10-2022,Female,North,In-store,1,6,98.10830037,588.6498022,281.7828291
+Books,27-10-2022,Female,West,Online: Own-website,1,39,64.31437864,2508.260767,357.0818264
+Sports,16-08-2022,Female,East,In-store,0,52,42.20326757,2194.569914,355.3698774
+Books,28-09-2022,Male,East,In-store,0,23,68.30357014,1570.982113,750.763717
+Furniture,12-02-2022,Female,West,Online: Own-website,1,89,21.06286106,1874.594635,739.7414583
+Appliances,09-12-2022,Female,East,Online: Own-website,1,50,89.97931722,4498.965861,2038.920216
+Clothing,22-11-2022,Male,East,In-store,1,43,55.27755557,2376.93489,430.3513201
+Furniture,29-10-2022,Female,South,Online: Own-website,1,19,50.44147678,958.3880589,321.0929189
+Books,30-12-2022,Male,West,Online: Own-website,1,69,62.72783096,4328.220336,1646.696694
+Sports,21-01-2022,Female,North,Online: Own-website,1,51,66.23054765,3377.75793,1256.677119
+Electronics,17-04-2022,Male,East,Online: Other apps,1,11,16.45982256,181.0580482,47.66546422
+Books,02-12-2022,Male,West,In-store,1,12,71.43554991,857.2265989,91.00142415
+Sports,30-10-2022,Female,South,In-store,1,74,31.77385123,2351.264991,783.3719509
+Appliances,27-04-2022,Male,North,Online: Other apps,0,8,74.25573693,594.0458954,119.5461617
+Books,04-05-2022,Male,West,In-store,0,24,84.02813149,2016.675156,564.8741364
+Electronics,08-10-2022,Male,North,Online: Own-website,0,92,82.35626568,7576.776443,3659.828555
+Sports,19-10-2022,Male,North,In-store,1,41,59.72508707,2448.72857,635.72453
+Sports,22-07-2022,Male,North,Online: Own-website,0,36,56.81529031,2045.350451,891.6104831
+Sports,20-02-2022,Male,East,Online: Other apps,1,85,22.85883652,1943.001104,340.8339525
+Appliances,28-09-2022,Female,East,Online: Own-website,1,72,79.78115354,5744.243055,2119.534924
+Books,20-11-2022,Male,South,In-store,0,55,34.42684424,1893.476433,929.3235006
+Appliances,04-10-2022,Male,South,In-store,1,9,54.70258805,492.3232925,69.29806801
+Clothing,21-05-2022,Female,West,In-store,0,47,35.58466836,1672.479413,172.8139141
+Clothing,02-10-2022,Female,South,Online: Other apps,0,15,22.04455267,330.66829,90.41566126
+Books,17-10-2022,Female,North,Online: Other apps,0,48,66.66019272,3199.689251,438.51803
+Appliances,30-11-2022,Female,North,In-store,1,82,14.88988313,1220.970417,487.5991023
